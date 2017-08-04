@@ -1,0 +1,14 @@
+{
+    "name": "twichchatcredits",
+    "version": "1.0.0",
+    "description": "A bot that harvests users that join the channel, talk, and regulars/etc to then build a credits list.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jonathan Hardison <jmh@jonathanhardison.com>",
+    "license": "MIT",
+    "dependencies": {
+        "twitch-bot": "^1.0.1"
+    }
+}
